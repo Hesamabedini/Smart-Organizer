@@ -1,0 +1,53 @@
+🗂️ Smart Organizer
+
+Smart Organizer is a **desktop application** to help you **sort and organize your files** into categories like Images, Videos, Documents, and Others. You can also define **custom rules** for specific file types.
+
+---
+
+_____🌟 Features / ویژگی‌ها
+**Drag & Drop folders** to select easily  
+**Sort files by type:** Images, Videos, Documents, Others  
+**Add custom rules** for any file type (e.g., `.zip`, `.rar`, `.py`)  
+**Undo / Restore files** to their original location  
+**Generate TXT report** of sorted files  
+**Light & Dark theme** for comfortable viewing  
+**Desktop notifications** on Windows 10+ for sorting and restoring  
+
+---
+
+_____🛠️ How to Use / نحوه استفاده
+1. **Open the program** / برنامه را باز کنید  
+2. **Add folders:** Drag & Drop or click **"Choose Paths"** / پوشه‌ها را اضافه کنید: کشیدن و رها کردن یا دکمه "Choose Paths"  
+3. **Select file types** you want to sort / نوع فایل‌ها را انتخاب کنید  
+4. **Click "Sort Selected Path"** to organize your files / روی "Sort Selected Path" کلیک کنید تا فایل‌ها مرتب شوند  
+5. **Create a report** if needed / در صورت نیاز گزارش بسازید  
+6. **Undo sorting** by clicking **"Restore File"** / برای بازگردانی فایل‌ها روی "Restore File" کلیک کنید  
+
+---
+
+_____⚠️ Notes / نکات
+- Run with **Python 3.8+** or the provided **EXE file** for best experience  
+- Notifications on Windows may require `win10toast`  
+- You can add **custom rules** for your file types  
+
+---
+
+_____💾 Download / دانلود
+- **EXE file:** Include in your package for easy execution  
+- **Source code:** Available for developers  
+
+---
+
+_____📸 Screenshots / اسکرین‌شات‌ها
+*Example of the main program window / نمونه‌ای از پنجره اصلی برنامه*
+(In screenshot folder)
+---
+
+_____📞 Support / پشتیبانی
+For any issues or questions, contact:  
+telegram id : @questionhesam
+
+---
+
+_____📄 License / مجوز
+MIT License - Free to use and modify
